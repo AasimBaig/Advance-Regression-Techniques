@@ -1,2 +1,3 @@
 # Advance-Regression-Techniques
- Stacking the Regression Algorithms
+I used multiple regression model and stack them together to create the best DRAGON MODEL :D
+
